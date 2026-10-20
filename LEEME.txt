@@ -1,0 +1,12 @@
+SÚPER INTELIGENTE V2 - EDICIÓN VISUAL
+
+ACTUALIZAR SIN PERDER DATOS:
+1. En la aplicación anterior entra en Ajustes y descarga un respaldo JSON.
+2. En GitHub, abre el MISMO repositorio de la versión V1.
+3. Reemplaza index.html, app.js, styles.css, icon.png, manifest.webmanifest, logo.svg y sw.js. Agrega mascota.png.
+4. Espera que GitHub Pages termine la publicación. Cierra y vuelve a abrir la aplicación.
+5. La V2 usa la misma clave de almacenamiento local super_inteligente_v1. Conserva tus listas si mantienes el mismo dominio, navegador y datos del sitio.
+6. Si no aparecen los cambios, actualiza la página desde Safari o Chrome y vuelve a abrirla.
+
+FUNCIONES: listas, presupuestos, captura de cantidades y precios, filtros, historial de 30 días, respaldo y restauración.
+IMPORTANTE: El diseño es una adaptación funcional inspirada en el collage, no una réplica pixel a pixel.
